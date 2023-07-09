@@ -1,2 +1,3 @@
 # Struktur-Data
-Struktur Data Bahasa C
+Repository ini berisi Praktikum dan Penugasan Mata Kuliah Struktur Data. 
+Program dibuat menggunakan Bahasa C (C Programming Language)
